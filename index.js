@@ -1,6 +1,10 @@
 const express = require("express");
+const db1 = require("mysql2");
 const app = express();
-const port = 8000;
+const port = 3307;
+
+const db = require("./db");
+db.initDB();
 
 const bodParser = require("body-parser");
 
