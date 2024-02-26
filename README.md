@@ -12,7 +12,7 @@ This api will run the create table queries
 
 **POSTMAN callection:**
 
-https://bold-water-626360.postman.co/workspace/New-Team-Workspace~9544da7b-214c-431e-a820-317f92d3cbb2/collection/23836321-09e46098-cc32-458b-a1ee-d62b09452c3a?action=share&creator=23836321
+https://bold-water-626360.postman.co/workspace/New-Team-Workspace~9544da7b-214c-431e-a820-317f92d3cbb2/request/23836321-68a75030-f795-4b6f-94ad-5e593d243aa8?tab=body
 
 **User Api:**
 
