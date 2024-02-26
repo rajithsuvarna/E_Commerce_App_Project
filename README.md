@@ -2,6 +2,7 @@
 
 This project aims to develop a robust API for an E-commerce system. The API provides essential functionalities, allowing users to seamlessly create new products and product variants, delete existing products and their variants, and retrieve comprehensive product information. This set of APIs empowers developers to efficiently manage and organize the product catalog within the E-commerce system, contributing to a seamless and dynamic user experience.
 
+Run the project using below command:
 **npm start**
 
 Use Below api to Create required tables in your DB
