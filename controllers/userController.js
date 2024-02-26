@@ -1,5 +1,7 @@
+const db = require("../db");
 module.exports.create = async function (req, res) {
   try {
+    db.executQuery();
   } catch (err) {
     console.log(err);
     return;
