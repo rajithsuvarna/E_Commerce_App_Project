@@ -66,8 +66,8 @@ http://localhost:3307/api/v1/cart/create
 
 ![image](https://github.com/rajithsuvarna/E_Commerce_App_Project/assets/109891044/13c6b9c7-c14c-4908-a0e3-cd42fa2155fd)
 
-**Delete cart by id:
-**http://localhost:3307/api/v1/cart//deletecart/:id
+**Delete cart by id:**
+http://localhost:3307/api/v1/cart//deletecart/:id
 
 ![image](https://github.com/rajithsuvarna/E_Commerce_App_Project/assets/109891044/eff5c809-c54a-4d00-bfc6-af2963286690)
 
